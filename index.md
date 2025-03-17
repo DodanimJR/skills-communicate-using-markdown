@@ -12,3 +12,8 @@ Git lol
 ``` javascript
 var testVar = "Hellow, world!";
 ```
+
+
+- [ ] Item 1 Lista prueba
+- [ ] jajaja si identa y arregla solo
+- [ ] vivan las listas
